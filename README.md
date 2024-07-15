@@ -1,4 +1,4 @@
-## Myntra HackerRamp submission by Team Salient Features
+### Myntra HackerRamp submission by Team Salient Features
 
 ## Screenshots:
 ![image](https://github.com/user-attachments/assets/c6d6a4b4-5e6d-435d-bbe0-e65ed8abcf91)
